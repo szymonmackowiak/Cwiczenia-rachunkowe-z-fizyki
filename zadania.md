@@ -31,7 +31,13 @@ Układ jednostek SI składa się z:
 
 **Anegdota:** Prawo Avogadro - w warunkach normalnych (0 st. $C$, 1013.25 $hPa$) jeden mol dowolnego gazu zajmuje objętość 22.4 $dm^3$
 
-**Anegdota:** Stała Avogadro - liczba cząstek zawartych w jednym molu materii. $N_A \approx 6$
+**Anegdota:** Stała Avogadro - liczba cząstek zawartych w jednym molu materii. $N_A \approx 6 \cdot 10^23 [1/mol]$
+
+### Zadanie 1. 
+Korzystając z prawa powszechnego ciążenia wyrazić stałą oddziaływania grawitacyjnego w podstawowych jednostkach układu SI.
+
+### Zadanie 2. 
+Korzystając z prawa Coulomba wyrazić stałą oddziaływania elektrycznego w podstawowych jednostkach układu SI. 
 
 ### Jednoski uzupełniające układu SI:
 
@@ -47,3 +53,13 @@ Kąty mierzymy w stopniach lub (w fizyce częściej) - w radianach.
 **Anegdota:** Dlaczego pomiar kątów oraz czasu opiera się na systemie sześćdziesiątkowym? Już starożytni zauważyli, że liczba 60 ma wyjątkową własność - posiada najwięcej naturalnych dzielników! Liczbę 60 możemy podzielić przez 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60. DLatego system oparty na liczbie 60 jest wygodny w zakresie dzielenia okręgów (np. w przypadku pomiaru kątów lub czasu na kołowej tarczy).
 
 Miara łukowa kąta - na dowolnym kącie możemy zbudować łuk, który jest wycinkiem okręgu o promieniu $R$. Wówczas kąt można przedstawić jako: $\alpha = \frac{l}{R}.$ Spoglądając na jednostkę widzimy, że mielibyśmy tu $[m/m]$, a więc wielkość bezwymiarową! Aby nie było wątpliwości, że mówimy o kącie, do wyników dodajemy jednostkę [rad]. 
+
+### Zadanie 3
+Korzystając z miary łukowej kąta, wyrazić w radianach kąt 90 stopni.
+
+### Zadanie 4
+Korzystając z miary łukowej kąta, wyrazić w radianach kąt 180 stopni.
+
+### Zadanie 5
+Korzystając z miary łukowej kąta, wyrazić w radianach kąt 360 stopni.
+
