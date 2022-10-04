@@ -11,7 +11,7 @@ W fizyce oprócz alfabetu łacińskiego, korzystamy z alfabetu greckiego. Litery
 |3|$\Gamma$|$\gamma$|gamma|
 |4|$\Delta$|$\delta$|delta|
 |5|E|$\epsilon$, $\varepsilon$|epsilon|
-|6|Z|$\zeta$|zeta|
+|6|Z|$\zeta$|dzeta|
 |7|H|$\eta$|eta|
 |8|$\Theta$|$\theta$, $\vartheta$|teta|
 |9|I|$\iota$|jota|
@@ -19,14 +19,14 @@ W fizyce oprócz alfabetu łacińskiego, korzystamy z alfabetu greckiego. Litery
 |11|$\Lambda$|$\lambda$|lambda| 
 |12|M|$\mu$|mi|
 |13|N|$\nu$|ni|
-|14|$\Xi$|$\xi$|chi|
-|15|$O$| $o$|o|
+|14|$\Xi$|$\xi$|ksi|
+|15|$O$| $o$|omikron|
 |16|$\Pi$|$\pi$|pi| 
-|17|$P$|$\rho$, $\varrho$|ro| 
+|17|$P$|$\rho$, $\varrho$|rho| 
 |18|$\Sigma$|$\sigma$|sigma|
 |19|$T$|$\tau$|tau|
-|20|$\Upsilon$|$\upsilon$|upsilon|
-|21|$\Phi$|$\phi$, $\varphi$|fi|
+|20|$\Upsilon$|$\upsilon$|ipsilon|
+|21|$\Phi$|$\phi$, $\varphi$|phi|
 |22|$X$|$\chi$|chi|
 |23|$\Psi$|$\psi$|psi|
 |24|$\Omega$|$\omega$|omega|
