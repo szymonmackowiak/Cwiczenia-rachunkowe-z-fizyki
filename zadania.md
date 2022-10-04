@@ -1,5 +1,37 @@
 # Spotkanie 1
-## 1. Wielkości i jednostki fizyczne
+
+## 1. Alfabet grecki
+
+W fizyce oprócz alfabetu łacińskiego, korzystamy z alfabetu greckiego. Litery obu tych alfabetów są wykorzystywane do oznaczania wielkości i jednostek fizycznych. Poniżej tabela z literami greckiego alfabetu:
+
+|lp.|wielka litera|mała litera|nazwa|
+|-|-|-|-|
+|1|A|$\alpha$|alfa|
+|2|B|$\beta$|beta|
+|3|$\Gamma$|$\gamma$|gamma|
+|4|$\Delta$|$\delta$|delta|
+|5|E|$\epsilon$, $\varepsilon$|epsilon|
+|6|Z|$\zeta$|zeta|
+|7|H|$\eta$|eta|
+|8|$\Theta$|$\theta$, $\vartheta$|teta|
+|9|I|$\iota$|jota|
+|10|K|$\kappa$|kappa|
+|11|$\Lambda$|$\lambda$|lambda| 
+|12|M|$\mu$|mi|
+|13|N|$\nu$|ni|
+|14|$\Xi$|$\xi$|chi|
+|15|$O$| $o$|o|
+|16|$\Pi$|$\pi$|pi| 
+|17|$P$|$\rho$, $\varrho$|ro| 
+|18|$\Sigma$|$\sigma$|sigma|
+|19|$T$|$\tau$|tau|
+|20|$\Upsilon$|$\upsilon$|upsilon|
+|21|$\Phi$|$\phi$, $\varphi$|fi|
+|22|$X$|$\chi$|chi|
+|23|$\Psi$|$\psi$|psi|
+|24|$\Omega$|$\omega$|omega|
+
+## 2. Wielkości i jednostki fizyczne
 
 W fizyce najważniejszy jest pomiar. Bez względu na oryginalność teorii fizycznej, ostateczenie musi ona zostać skonfrontowana z wynikami pomiarów. Dlatego tak ważne jest, aby poświęcić chwilę na rozważania dot. pomiarów - tego co mierzymy i jak wyrażamy to w ujęciu liczbowym.
 
@@ -9,7 +41,7 @@ W fizyce najważniejszy jest pomiar. Bez względu na oryginalność teorii fizyc
 
 **Układ jednostek fizycznych** - wybrana konwencja przedstawiania wyników pomiarów za pomocą ustalonego zestawu jednostek wielkości fizycznych. Jest kwestią UMOWY. W Polsce i większości krajów europejskich korzystamy z układu SI. Nie jest to jedyny układ. Przykładami innych układów jednostek mogą być np. układ jednostek imperialnych lub układ CGS.
 
-## 2. Układ SI
+## 3. Układ SI
 
 Układ jednostek SI składa się z:
 - jednostek podstawowych (7 jednostek + 2 uzupełniające)
@@ -62,4 +94,26 @@ Korzystając z miary łukowej kąta, wyrazić w radianach kąt 180 stopni.
 
 ### Zadanie 5
 Korzystając z miary łukowej kąta, wyrazić w radianach kąt 360 stopni.
+
+## 4. Wielokrotności i podwielokrotności jednostek miar
+Aby prezentowany wynik był bardziej czytelny, korzystamy z wielokrotności i podwielokrotności liczby 10, którym nadano szczególne nazwy.
+
+|lp.|mnożnik|nazwa|skrót|
+|-|-|-|-|
+|1|$10^{15}$|peta|P|
+|2|$10^{12}$|tera|T|
+|3|$10^{9}$|giga|G|
+|4|$10^{6}$|mega|M|
+|5|$10^{3}$|kilo|k|
+|6|$10^{2}$|hekto|h|
+|7|$10^{1}$|deka|da|
+|8|$10^{0}$|||
+|9|$10^{-1}$|decy|d|
+|10|$10^{-2}$|centy|c|
+|11|$10^{-3}$|mili|m|
+|12|$10^{-6}$|mikro|$\mu$|
+|13|$10^{-9}$|nano|n|
+|14|$10^{-12}$|piko|p|
+|15|$10^{-15}$|femto|f|
+|16|$10^{-18}$|atto|a|
 
