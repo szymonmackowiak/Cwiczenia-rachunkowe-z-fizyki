@@ -27,9 +27,23 @@ Układ jednostek SI składa się z:
 |6|mol|[mol]|liczność materii|
 |7|kandela|[cd]|światłość p. źr. światła|
 
+**Anegdota:** Jak wyznaczyć temperaturę zera absolutnego? Można wykonać eksperyment spełaniający przemianę izobaryczną - cylinder z ruchomym tłokiem. Wykonując kilka pomiarów zależności $V(T)$ możemy poszukać miejsca zerowego uzyskanej prostej i wyznaczyć temperaturę zera absolutnego. Zera ansolutnego nie da się osiągnąć ze względu na zasadę nieoznaczoności Heisenberga (w tym sensie zero absolutne jest podobne do prędkości światła, której też nie da się osiągnąć).
+
+**Anegdota:** Prawo Avogadro - w warunkach normalnych (0 st. $C$, 1013.25 $hPa$) jeden mol dowolnego gazu zajmuje objętość 22.4 $dm^3$
+
+**Anegdota:** Stała Avogadro - liczba cząstek zawartych w jednym molu materii. $N_A \approx 6$
+
 ### Jednoski uzupełniające układu SI:
 
 |lp.|nazwa jednostki|skrót|wielkość której dotyczy|
 |-|-|-|-|
 |1|radian|[rad]|kąt płaski|
 |2|steradian|[sr]|kąt bryłowy|
+
+Liczba $pi$ - stosunek obwodu do średnicy okręgu. 
+
+Kąty mierzymy w stopniach lub (w fizyce częściej) - w radianach. 
+
+**Anegdota:** Dlaczego pomiar kątów oraz czasu opiera się na systemie sześćdziesiątkowym? Już starożytni zauważyli, że liczba 60 ma wyjątkową własność - posiada najwięcej naturalnych dzielników! Liczbę 60 możemy podzielić przez 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60. DLatego system oparty na liczbie 60 jest wygodny w zakresie dzielenia okręgów (np. w przypadku pomiaru kątów lub czasu na kołowej tarczy).
+
+Miara łukowa kąta - na dowolnym kącie możemy zbudować łuk, który jest wycinkiem okręgu o promieniu $R$. Wówczas kąt można przedstawić jako: $\alpha = \frac{l}{R}.$ Spoglądając na jednostkę widzimy, że mielibyśmy tu $[m/m]$, a więc wielkość bezwymiarową! Aby nie było wątpliwości, że mówimy o kącie, do wyników dodajemy jednostkę [rad]. 
