@@ -80,7 +80,7 @@ Korzystając z prawa Coulomba wyrazić stałą oddziaływania elektrycznego w po
 
 Liczba $\pi$ - stosunek obwodu do średnicy okręgu. 
 
-Kąty mierzymy w stopniach lub (w fizyce częściej) - w radianach. 
+Kąty (płaskie) mierzymy w stopniach lub (w fizyce częściej) - w radianach. 
 
 **Anegdota:** Dlaczego pomiar kątów oraz czasu opiera się na systemie sześćdziesiątkowym? Już starożytni zauważyli, że liczba 60 ma wyjątkową własność - posiada najwięcej naturalnych dzielników! Liczbę 60 możemy podzielić przez 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60. DLatego system oparty na liczbie 60 jest wygodny w zakresie dzielenia okręgów (np. w przypadku pomiaru kątów lub czasu na kołowej tarczy).
 
