@@ -87,13 +87,10 @@ Kąty mierzymy w stopniach lub (w fizyce częściej) - w radianach.
 Miara łukowa kąta - na dowolnym kącie możemy zbudować łuk, który jest wycinkiem okręgu o promieniu $R$. Wówczas kąt można przedstawić jako: $\alpha = \frac{l}{R}.$ Spoglądając na jednostkę widzimy, że mielibyśmy tu $[m/m]$, a więc wielkość bezwymiarową! Aby nie było wątpliwości, że mówimy o kącie, do wyników dodajemy jednostkę [rad]. 
 
 ### Zadanie 3
-Korzystając z miary łukowej kąta, wyrazić w radianach kąt 90 stopni.
-
-### Zadanie 4
-Korzystając z miary łukowej kąta, wyrazić w radianach kąt 180 stopni.
-
-### Zadanie 5
-Korzystając z miary łukowej kąta, wyrazić w radianach kąt 360 stopni.
+Korzystając z miary łukowej kąta, wyrazić w radianach kąt:
+a) 90 stopni,
+b) 180 stopni,
+c) 360 stopni.
 
 ## 4. Wielokrotności i podwielokrotności jednostek miar
 Aby prezentowany wynik był bardziej czytelny, korzystamy z wielokrotności i podwielokrotności liczby 10, którym nadano szczególne nazwy.
