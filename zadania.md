@@ -78,7 +78,7 @@ Korzystając z prawa Coulomba wyrazić stałą oddziaływania elektrycznego w po
 |1|radian|[rad]|kąt płaski|
 |2|steradian|[sr]|kąt bryłowy|
 
-Liczba $pi$ - stosunek obwodu do średnicy okręgu. 
+Liczba $\pi$ - stosunek obwodu do średnicy okręgu. 
 
 Kąty mierzymy w stopniach lub (w fizyce częściej) - w radianach. 
 
