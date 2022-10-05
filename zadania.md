@@ -63,7 +63,7 @@ Układ jednostek SI składa się z:
 
 **Anegdota:** Prawo Avogadro - w warunkach normalnych (0 st. $C$, 1013.25 $hPa$) jeden mol dowolnego gazu zajmuje objętość 22.4 $dm^3$
 
-**Anegdota:** Stała Avogadro - liczba cząstek zawartych w jednym molu materii. $N_A \approx 6 \cdot 10^23 [1/mol]$
+**Anegdota:** Stała Avogadro - liczba cząstek zawartych w jednym molu materii. $N_A \approx 6 \cdot 10^{23} [1/mol]$
 
 ### Zadanie 1. 
 Korzystając z prawa powszechnego ciążenia wyrazić stałą oddziaływania grawitacyjnego w podstawowych jednostkach układu SI.
