@@ -114,3 +114,20 @@ Aby prezentowany wynik był bardziej czytelny, korzystamy z wielokrotności i po
 |15|$10^{-15}$|femto|f|
 |16|$10^{-18}$|atto|a|
 
+# Spotkanie 2
+
+## Podział wielkości na skalarne i wektorowe
+
+## Rachunek wektorowy
+
+**Dodawanie (odejmowanie) wektorów**
+
+**Mnożenie wektorów**
+
+- iloczyn przez liczbę (skalowanie)
+- iloczyn skalarny
+- iloczyn wektorowy
+
+**Podstawy rachunku różniczkowego wykorzystywanego w fizyce**
+- pochodna
+- całka
