@@ -133,8 +133,8 @@ Wersor to wektor jednostkowy, który wskazuje kierunki osi układu współrzędn
 
 **Mnożenie wektorów**
 
-- iloczyn przez liczbę (skalowanie)
-- iloczyn skalarny
+- iloczyn przez liczbę (skalowanie): Mnożąc wektor przez liczbę, zachowane zostają jego kierunek i zwrot, ale zmianie ulega jego długość. W wyniku dostajemy wektor wysłużony albo skrócony. Jest to skalowanie wektora.
+- iloczyn skalarny: Mnożymy dwa wektory, ale w wyniku otrzymujemy liczbę (stąd nazwa - uzyskujemy skalar). Możemy powiedzieć, że uzyskany wynik jest co do wartości równy polu prostokąta zbudowanego na długości pierwszego wektora i rzutu drugiego wektora na pierwszy. Mamy dwa równania na obliczanie wartości iloczynu skalarnego: $\vec{a} \cdot \vec{b} = \left| \vec{a} \right| \left| \vec{b} \right| cos\left( \alpha \right)$
 - iloczyn wektorowy
 
 **Podstawy rachunku różniczkowego wykorzystywanego w fizyce**
