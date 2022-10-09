@@ -135,7 +135,14 @@ Wersor to wektor jednostkowy, który wskazuje kierunki osi układu współrzędn
 
 - iloczyn przez liczbę (skalowanie): Mnożąc wektor przez liczbę, zachowane zostają jego kierunek i zwrot, ale zmianie ulega jego długość. W wyniku dostajemy wektor wysłużony albo skrócony. Jest to skalowanie wektora.
 - iloczyn skalarny: Mnożymy dwa wektory, ale w wyniku otrzymujemy liczbę (stąd nazwa - uzyskujemy skalar). Możemy powiedzieć, że uzyskany wynik jest co do wartości równy polu prostokąta zbudowanego na długości pierwszego wektora i rzutu drugiego wektora na pierwszy. Mamy dwa równania na obliczanie wartości iloczynu skalarnego: $\vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| cos\left( \alpha \right) = a_x b_x + a_y b_y + a_z b_z$, (gdzie $\alpha$ jest kątem zawartym między mnożonymi wektorami). Przykładami zastosowań iloczynu skalarnego w fizyce mogą być m.in. definicja pracy czy strumienia pola magnetycznego. 
-- iloczyn wektorowy: Mnożymy dwa wektory, a w wyniku otrzymujemy nowy wektor (stąd nazwa - uzyskujemy wektor). Nowy wektor jest prostopadły do płaszczyzny rozpiętej na mnożonych wektorach, a jego zwrot określa reguła śruby prawoskrętnej (inaczej prawej dłoni). Nie ma iloczynu wektorowego w przestrzeni 2D (brakuje trzeciego wymiaru, w którym otrzymany wektor byłby właśnie prostopadły do mnożonych wektorów). Długość nowego wektora jest co do wartości równa polu równoległoboku rozpiętego na mnożonych wektorach, czyli $|\vec{c}| = |\vec{a}| |\vec{b}| sin \left( \alpha \right)$, gdzie $\alpha$ to kąt zawarty między mnożonymi wektorami. 
+- iloczyn wektorowy: Mnożymy dwa wektory, a w wyniku otrzymujemy nowy wektor (stąd nazwa - uzyskujemy wektor). Nowy wektor jest prostopadły do płaszczyzny rozpiętej na mnożonych wektorach, a jego zwrot określa reguła śruby prawoskrętnej (inaczej prawej dłoni). Nie ma iloczynu wektorowego w przestrzeni 2D (brakuje trzeciego wymiaru, w którym otrzymany wektor byłby właśnie prostopadły do mnożonych wektorów). Długość nowego wektora jest co do wartości równa polu równoległoboku rozpiętego na mnożonych wektorach, czyli $|\vec{c}| = |\vec{a}| |\vec{b}| sin \left( \alpha \right)$, gdzie $\alpha$ to kąt zawarty między mnożonymi wektorami. Wyznaczanie składowych nowego wektora opiera się na obliczeniu stosownego wyznacznika, zgodnie ze wzorem: 
+$
+\begin{vmatrix}
+     a_{11} & a_{12} & a_{13}\\ 
+     a_{21} & a_{22} & a_{23}\\
+     a_{31} & a_{32} & a_{33} 
+\end{vmatrix}
+$
 
 **Podstawy rachunku różniczkowego wykorzystywanego w fizyce**
 - pochodna
