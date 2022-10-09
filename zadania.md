@@ -135,7 +135,7 @@ Wersor to wektor jednostkowy, który wskazuje kierunki osi układu współrzędn
 
 - iloczyn przez liczbę (skalowanie): Mnożąc wektor przez liczbę, zachowane zostają jego kierunek i zwrot, ale zmianie ulega jego długość. W wyniku dostajemy wektor wysłużony albo skrócony. Jest to skalowanie wektora.
 - iloczyn skalarny: Mnożymy dwa wektory, ale w wyniku otrzymujemy liczbę (stąd nazwa - uzyskujemy skalar). Możemy powiedzieć, że uzyskany wynik jest co do wartości równy polu prostokąta zbudowanego na długości pierwszego wektora i rzutu drugiego wektora na pierwszy. Mamy dwa równania na obliczanie wartości iloczynu skalarnego: $\vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| cos\left( \alpha \right) = a_x b_x + a_y b_y + a_z b_z$. Przykładami zastosowań iloczynu skalarnego w fizyce mogą być m.in. definicja pracy czy strumienia pola magnetycznego. 
-- iloczyn wektorowy: Mnożymy dwa wektory, a w wyniku otrzymujemy nowy wektor (stąd nazwa - uzyskujemy wektor). Nowy wektor jest prostopadły do płaszczyzny rozpiętej na mnożonych wektorach, a jego zwrot określa reguła śruby prawoskrętnej (inaczej prawej dłoni). Nie ma iloczynu wektorowego w przestrzeni 2D (brakuje trzeciego wymiaru, w którym otrzymany wektor byłby właśnie prostopadły do mnożonych wektorów).
+- iloczyn wektorowy: Mnożymy dwa wektory, a w wyniku otrzymujemy nowy wektor (stąd nazwa - uzyskujemy wektor). Nowy wektor jest prostopadły do płaszczyzny rozpiętej na mnożonych wektorach, a jego zwrot określa reguła śruby prawoskrętnej (inaczej prawej dłoni). Nie ma iloczynu wektorowego w przestrzeni 2D (brakuje trzeciego wymiaru, w którym otrzymany wektor byłby właśnie prostopadły do mnożonych wektorów). 
 
 **Podstawy rachunku różniczkowego wykorzystywanego w fizyce**
 - pochodna
