@@ -117,6 +117,13 @@ Aby prezentowany wynik był bardziej czytelny, korzystamy z wielokrotności i po
 # Spotkanie 2
 
 ## Podział wielkości na skalarne i wektorowe
+Otaczające nas wielkości możemy podzielić na dwie kategorie:
+- wielkości skalarne (do ich opisu wystarczy pojeydyncza wartość). Przykłady: masa, ciepło, temperatura
+- wielkości wektorowe (do pełnego opisu wymagają uwzględnienia orientacji w przestrzeni). Przykłady: siła, prędkość, przyspieszenie. Wielkości wektorowe w przestrzeni 3D wymagają do pełnego opisu trzech liczb (składowe wektora). 
+
+## Przedstawianie wektorów
+Wektory możemy przedstawiać w postaci kolejnych składowych w nawiasie kwadratowym lub w postaci algebraicznej sumy składowych wraz z wersorami osi układu współrzędnych. Np.
+$\vec{a} = [a_x, a_y, a_z] = a_x \hat{i}, a_y\hat{i}, a_z\hat{k}$
 
 ## Rachunek wektorowy
 
