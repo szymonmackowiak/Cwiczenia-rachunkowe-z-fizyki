@@ -123,7 +123,7 @@ Otaczające nas wielkości możemy podzielić na dwie kategorie:
 
 ## Przedstawianie wektorów
 Wektory możemy przedstawiać w postaci kolejnych składowych w nawiasie kwadratowym lub w postaci algebraicznej sumy składowych wraz z wersorami osi układu współrzędnych. Np.
-$\vec{a} = [a_x, a_y, a_z] = a_x \hat{i} + a_y\hat{i} + a_z\hat{k}$
+$\vec{a} = [a_x, a_y, a_z] = a_x \hat{i} + a_y\hat{j} + a_z\hat{k}$
 
 Wersor to wektor jednostkowy, który wskazuje kierunki osi układu współrzędnych. 
 
